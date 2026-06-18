@@ -66,12 +66,6 @@ Update Student
 
 ![Update Student](screenshots/update-student.png)
 
-Getting Started
-
-Clone Repository
-
-git clone https://github.com/piyushjagtap8598/Student-Management-System.git
-
 Backend Setup
 
 1. Open backend project in IDE.
