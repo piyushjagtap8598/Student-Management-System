@@ -75,11 +75,11 @@ Backend Setup
 
 Frontend Setup
 
-cd frontend
+1.cd frontend
 
-npm install
+2.npm install
 
-npm start
+3.npm start
 
 Frontend runs on:
 
