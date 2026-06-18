@@ -21,7 +21,7 @@ Backend
 - Spring Boot
 - Spring Data JPA
 - Spring Security
-- JWT
+- JWT Authentication
 - MySQL
 
 Frontend
@@ -33,10 +33,61 @@ Frontend
 Project Structure
 
 Student-Management-System
-
+│
 ├── backend
-
+│
 └── frontend
+
+Screenshots
+
+Login Page
+
+"Login Page" (screenshots/login.png.png)
+
+Student List
+
+"Student List" (screenshots/student-list.png.png)
+
+Add Student
+
+"Add Student" (screenshots/add-student.png.png)
+
+Update Student
+
+"Update Student" (screenshots/update-student.png.png)
+
+Getting Started
+
+Clone Repository
+
+git clone https://github.com/piyushjagtap8598/Student-Management-System.git
+
+Backend Setup
+
+1. Open backend project in IDE.
+2. Configure MySQL database.
+3. Update "application.properties".
+4. Run Spring Boot Application.
+
+Frontend Setup
+
+cd frontend
+npm install
+npm start
+
+Frontend runs on:
+
+http://localhost:3000
+
+Backend runs on:
+
+http://localhost:8080
+
+API Features
+
+- User Login
+- JWT Token Generation
+- Student CRUD Operations
 
 Author
 
