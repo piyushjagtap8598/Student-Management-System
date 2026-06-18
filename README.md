@@ -52,19 +52,19 @@ Screenshots
 
 Login Page
 
-"Login Page" (screenshots/login.png.png)
+"Login Page" (screenshots/login.png)
 
 Student List
 
-"Student List" (screenshots/student-list.png.png)
+"Student List" (screenshots/student-list.png)
 
 Add Student
 
-"Add Student" (screenshots/add-student.png.png)
+"Add Student" (screenshots/add-student.png)
 
 Update Student
 
-"Update Student" (screenshots/update-student.png.png)
+"Update Student" (screenshots/update-student.png)
 
 Getting Started
 
