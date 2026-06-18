@@ -33,10 +33,12 @@ Frontend
 Project Structure
 
 Student-Management-System
+
 │
 ├── backend
 │
 └── frontend
+
 
 Screenshots
 
