@@ -36,7 +36,6 @@ Student-Management-System
 
 │
 ├── backend
-
 │
 └── frontend
 
